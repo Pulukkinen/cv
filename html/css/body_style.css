@@ -1,0 +1,78 @@
+	.jumbotron {
+		background-color: #607D8B;
+		color: #ECEFF1;
+		font-family: 'Courier New';
+		padding: 8% 10%;
+		margin-bottom: 1px;
+		
+		div {
+			white-space: nowrap;
+		}
+	
+	}
+	.img-circle{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		border: 0.7vw solid #b0bec5;
+	}
+	#hpj{
+		
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		
+	}
+	#ttylogo{
+		
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		
+		
+	}
+	
+	#education-title {
+		
+		margin-top: 0;
+		background-color: #CFD8DC;
+
+	}
+	
+	#education-content {
+		padding:2% 5%;
+	}
+	
+	.top-buffer {
+		margin-top: 4%;
+	}
+	.bottom-buffer {
+		margin-bottom: 4%;
+	}
+
+	.btn-block {
+		
+		background-color: #CFD8DC;
+		border-radius:0;
+		margin-bottom:4px;
+		box-shadow: 0 3px 0 0 #BDBDBD;
+	}
+	
+	.btn-block:active {
+		box-shadow: none;
+		margin-bottom: -3px;
+		margin-top: 3px;
+	}
+	
+	#work-moreinfo {
+		padding: 2% 20%;
+	}
+	
+	.btn-moreinfo {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: #cfd8dc;
+		border: 1px solid #607D8B;
+		
+	}
