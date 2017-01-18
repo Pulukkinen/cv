@@ -16,6 +16,6 @@
 	<div class="row">
 		<button type="button" class="btn btn-lg btn-block" data-toggle="collapse" data-target="#it-content">IT Skills</button>
 	
-		<div class="collapse in" id="it-content"><?php include('templates/itskills.php')?></div>
+		<div class="collapse in" id="it-content"><?php include('templates/it-skills.php')?></div>
 	</div>
 </div>
