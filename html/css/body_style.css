@@ -76,6 +76,15 @@
 		border: 1px solid #607D8B;
 		
 	}
-	#operating-content {
+	.two-columns {
 		padding: 0 8%;
+	}
+	#it-other-content {
+		padding: 0 15%;
+	}
+	#unity-logo {
+		margin-top: 10%;
+	}
+	.logo {
+		font-size: 7vw;
 	}
