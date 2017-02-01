@@ -1,8 +1,8 @@
 <h2>Tampere University of Technology</h2>
 <p> <br>01.08.2014 - <br>
-Mechanical engineerin<br>
-credits 138/300<br>
+Mechanical engineering<br>
+credits 151/300<br>
 Major: Engineering design and R&D<br>
-Minor: software engineering<br><br>
+Minor: Software engineering<br><br>
 Bachelor's thesis started<br>
-subject: Animation of CAD-models in Unity-game engine</p>
+Subject: Animation of CAD-models in Unity-game engine</p>

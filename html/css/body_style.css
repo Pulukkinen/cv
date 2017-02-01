@@ -1,3 +1,4 @@
+
 	.jumbotron {
 		background-color: #607D8B;
 		color: #ECEFF1;
@@ -56,6 +57,7 @@
 		border-radius:0;
 		margin-bottom:4px;
 		box-shadow: 0 3px 0 0 #BDBDBD;
+	
 	}
 	
 	.btn-block:active {
@@ -65,19 +67,12 @@
 	}
 	
 	#work-moreinfo {
-		padding: 2% 20%;
+		padding: 2% 25%;
 	}
 	
-	.btn-moreinfo {
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-		background-color: #cfd8dc;
-		border: 1px solid #607D8B;
-		
-	}
+	
 	.two-columns {
-		padding: 0 8%;
+		padding: 0 5%;
 	}
 	#it-other-content {
 		padding: 0 15%;
